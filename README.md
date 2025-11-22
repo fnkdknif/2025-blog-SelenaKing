@@ -10,8 +10,8 @@
 
 ```ts
 export const GITHUB_CONFIG = {
-	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'yysuni',
-	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || '2025-blog-public',
+	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'fnkdknif',
+	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || '2025-blog-SelenaKing',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
 	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '-'
 } as const
