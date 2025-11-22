@@ -69,7 +69,7 @@ export default function Page() {
 					</motion.div>
 
 					<motion.a
-						href='https://github.com/fnkdknif‘
+						href='https://github.com/fnkdknif'
 						target='_blank'
 						initial={{ opacity: 0, scale: 0.6 }}
 						animate={{ opacity: 1, scale: 1 }}
