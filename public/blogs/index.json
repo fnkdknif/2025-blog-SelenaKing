@@ -1,5 +1,12 @@
 [
   {
+    "slug": "test-1",
+    "title": "test",
+    "tags": [],
+    "date": "2025-11-22",
+    "summary": ""
+  },
+  {
     "slug": "game-again",
     "title": "又折腾一次游戏的记录心得",
     "tags": [
